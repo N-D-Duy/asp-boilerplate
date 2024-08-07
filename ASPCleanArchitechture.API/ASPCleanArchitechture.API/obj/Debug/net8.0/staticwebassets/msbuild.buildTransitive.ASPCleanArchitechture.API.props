@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASPCleanArchitechture.API.props" />
+</Project>

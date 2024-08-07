@@ -1,0 +1,17 @@
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\bin\Debug\net8.0\ASPCleanArchitechture.Infrastructure.deps.json
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\bin\Debug\net8.0\ASPCleanArchitechture.Infrastructure.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\bin\Debug\net8.0\ASPCleanArchitechture.Infrastructure.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\bin\Debug\net8.0\ASPCleanArchitechture.Domain.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\bin\Debug\net8.0\ASPCleanArchitechture.Domain.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.AssemblyInfo.cs
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.csproj.CopyComplete
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\refint\ASPCleanArchitechture.Infrastructure.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ref\ASPCleanArchitechture.Infrastructure.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\bin\Debug\net8.0\ASPCleanArchitechture.Infrastructure.runtimeconfig.json
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Infrastructure\obj\Debug\net8.0\ASPCleanArchitechture.Infrastructure.genruntimeconfig.cache

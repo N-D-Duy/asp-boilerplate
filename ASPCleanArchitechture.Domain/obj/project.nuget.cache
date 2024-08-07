@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRtpMkdd8IDID9BcQF6nBYUIk0blg7Eg4cCg3LXQmkiCpylD237RsMpDIU9e7s7lJHUX12FKB44Vw5gjesSYGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nguye\\source\\repos\\boilerplate\\ASPCleanArchitechture.Domain\\ASPCleanArchitechture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

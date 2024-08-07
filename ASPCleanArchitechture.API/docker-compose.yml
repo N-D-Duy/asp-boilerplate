@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  aspcleanarchitechture.api:
+    image: ${DOCKER_REGISTRY-}aspcleanarchitechtureapi
+    build:
+      context: .
+      dockerfile: ASPCleanArchitechture.API/Dockerfile

@@ -1,0 +1,7 @@
+@ASPCleanArchitechture.API_HostAddress = http://localhost:5118
+
+
+###
+GET {{ASPCleanArchitechture.API_HostAddress}}/todos/
+Accept: application/json
+###

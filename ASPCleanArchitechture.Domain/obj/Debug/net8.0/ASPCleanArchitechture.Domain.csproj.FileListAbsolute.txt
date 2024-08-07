@@ -1,0 +1,12 @@
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\bin\Debug\net8.0\ASPCleanArchitechture.Domain.deps.json
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\bin\Debug\net8.0\ASPCleanArchitechture.Domain.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\bin\Debug\net8.0\ASPCleanArchitechture.Domain.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\ASPCleanArchitechture.Domain.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\ASPCleanArchitechture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\ASPCleanArchitechture.Domain.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\ASPCleanArchitechture.Domain.AssemblyInfo.cs
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\ASPCleanArchitechture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\ASPCleanArchitechture.Domain.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\refint\ASPCleanArchitechture.Domain.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\ASPCleanArchitechture.Domain.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Domain\obj\Debug\net8.0\ref\ASPCleanArchitechture.Domain.dll

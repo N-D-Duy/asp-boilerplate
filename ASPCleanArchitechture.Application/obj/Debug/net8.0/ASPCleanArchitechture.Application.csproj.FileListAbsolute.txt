@@ -1,0 +1,17 @@
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\bin\Debug\net8.0\ASPCleanArchitechture.Application.deps.json
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\bin\Debug\net8.0\ASPCleanArchitechture.Application.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\bin\Debug\net8.0\ASPCleanArchitechture.Application.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\bin\Debug\net8.0\ASPCleanArchitechture.Domain.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\bin\Debug\net8.0\ASPCleanArchitechture.Infrastructure.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\bin\Debug\net8.0\ASPCleanArchitechture.Domain.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\bin\Debug\net8.0\ASPCleanArchitechture.Infrastructure.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ASPCleanArchitechture.Application.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ASPCleanArchitechture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ASPCleanArchitechture.Application.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ASPCleanArchitechture.Application.AssemblyInfo.cs
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ASPCleanArchitechture.Application.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ASPCleanArchitechture.Application.csproj.CopyComplete
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ASPCleanArchitechture.Application.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\refint\ASPCleanArchitechture.Application.dll
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ASPCleanArchitechture.Application.pdb
+C:\Users\nguye\source\repos\boilerplate\ASPCleanArchitechture.Application\obj\Debug\net8.0\ref\ASPCleanArchitechture.Application.dll
